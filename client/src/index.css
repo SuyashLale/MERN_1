@@ -1,0 +1,27 @@
+.Toastify__toast--warning {
+  background-color: rgb(187, 127, 17);
+  color: black;
+}
+
+.Toastify__toast--success {
+  background-color: rgb(16, 196, 112);
+  color: black;
+}
+
+.Toastify__toast--error {
+  background-color: rgb(184, 17, 67);
+  color: black;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.slider img,
+.card-image {
+  height: 450px;
+  object-fit: cover;
+}
+
+.pointer {
+  cursor: pointer;
+}
